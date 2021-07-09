@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently on a trainee process in the young company [**Brainstrom jr.**](https://brainstormjr.com.br/)
+- 🌱 Learning fullstack development on **let's code** course.
+
+[![Github Status](https://github-readme-stats.vercel.app/api?username=italopinto&show_icons=true&theme=vision-friendly-dark)](https://github.com/italopinto/italopinto)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italopinto&langs_count=6&layout=compact&show_icons=true&title_color=F3AF3D&icon_color=79ff97&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **italopinto/italopinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
