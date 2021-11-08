@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently on a trainee process in the young company [**Brainstrom jr.**](https://brainstormjr.com.br/)
-- 🌱 Learning fullstack development on **let's code** course.
+- 🔭 I’m currently working in the young company [**Brainstrom jr.**](https://brainstormjr.com.br/)
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=italopinto&show_icons=true&theme=vision-friendly-dark)](https://github.com/italopinto/italopinto)
 
