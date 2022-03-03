@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working in the young company [**Brainstrom jr.**](https://brainstormjr.com.br/)
+- 🔭 I’m currently working in the young company [**Brainstrom jr.**](https://brainstormjr.com.br/) and [**FCamara Formação e Consultoria**](https://www.fcamara.com.br/)
+- 🌱 I'm learning many languages nowadays, like: Scala, Ruby, Golang and others.
 
 [![Github Status](https://github-readme-stats.vercel.app/api?username=italopinto&show_icons=true&theme=vision-friendly-dark)](https://github.com/italopinto/italopinto)
 
