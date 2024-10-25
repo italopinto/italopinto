@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working at [**Grupo FCamara**](https://fcamara.com/)
+- 🔭 I’m currently searching for work.
 
 
 ## Repository stats
